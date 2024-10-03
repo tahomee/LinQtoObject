@@ -1,0 +1,15 @@
+E:\.net\BTLinQ\BTLinQ\bin\Debug\BTLinQ.exe.config
+E:\.net\BTLinQ\BTLinQ\bin\Debug\BTLinQ.exe
+E:\.net\BTLinQ\BTLinQ\bin\Debug\BTLinQ.pdb
+E:\.net\BTLinQ\BTLinQ\obj\Debug\BTLinQ.csproj.AssemblyReference.cache
+E:\.net\BTLinQ\BTLinQ\obj\Debug\BTLinQ.Form1.resources
+E:\.net\BTLinQ\BTLinQ\obj\Debug\BTLinQ.Properties.Resources.resources
+E:\.net\BTLinQ\BTLinQ\obj\Debug\BTLinQ.csproj.GenerateResource.cache
+E:\.net\BTLinQ\BTLinQ\obj\Debug\BTLinQ.csproj.CoreCompileInputs.cache
+E:\.net\BTLinQ\BTLinQ\obj\Debug\BTLinQ.exe
+E:\.net\BTLinQ\BTLinQ\obj\Debug\BTLinQ.pdb
+E:\.net\BTLinQ\BTLinQ\bin\Debug\EntityFramework.dll
+E:\.net\BTLinQ\BTLinQ\bin\Debug\EntityFramework.SqlServer.dll
+E:\.net\BTLinQ\BTLinQ\bin\Debug\EntityFramework.xml
+E:\.net\BTLinQ\BTLinQ\bin\Debug\EntityFramework.SqlServer.xml
+E:\.net\BTLinQ\BTLinQ\obj\Debug\BTLinQ.csproj.CopyComplete
